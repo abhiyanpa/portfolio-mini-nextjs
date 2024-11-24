@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 
 const projects = [
-  { id: 1, title: 'Minecraft Server Status', description: 'Monitor the status of Minecraft servers. Get real-time updates and ensure your server is running smoothly.', link: '#' },
+  { id: 1, title: 'Minecraft Server Status', description: 'Monitor the status of Minecraft servers. Get real-time updates and ensure your server is running smoothly.', link: 'https://mc-status.abhiyanpa.in' },
   { id: 2, title: 'IP Tracker', description: 'Get detailed information about any IP address, including geographical location and ISP details.', link: '#' },
   { id: 3, title: 'QR Generator - Web', description: '🚀 Modern QR code generator with multiple formats & themes. Built with Flask.', link: 'https://github.com/abhiyanpa/qr-gen-web' },
   { id: 4, title: 'QR Generator - Python', description: '🚀 Simple QR code generator built in Python. Supports URL, WiFi, Text & WhatsApp QR codes with custom styling.', link: 'https://github.com/abhiyanpa/qr-gen-python' },
